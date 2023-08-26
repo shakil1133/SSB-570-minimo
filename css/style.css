@@ -307,8 +307,6 @@ footer{
     
     }
     
-    
-    
     .social_icon ul{
         display: flex;
         list-style: none;
@@ -326,7 +324,10 @@ footer{
     
     .social_icon ul li a{
         text-decoration: none;
-        color: #626262;
+        font-family: 'Playfair Display', serif; 
+        color: #000;
+        text-transform: capitalize;
+        
     
     }
     
